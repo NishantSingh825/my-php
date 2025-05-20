@@ -1,4 +1,4 @@
-# my-php"""# my-php"""
+# my-php"""
 
 Okay, so, where was I? Right, my PHP. It's... a thing. A project. A collection of files I've cobbled together over, oh, let's say a significant chunk of time. Think early 2000s vibes, a dash of "I learned this from a Geocities tutorial," and a heaping helping of "if it ain't broke, don't fix it," even if "it" is held together by duct tape and dreams.
 
